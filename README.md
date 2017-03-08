@@ -11,6 +11,9 @@ monitor.jar - core of applicaton
 startup.bat - bat file for run application
 stomp.min.js - core of STOMP messages
 
+Build
+1. run build.bat.
+
 Install
 1. Download ZIP archive.
 2. unzip archive in any folder.
